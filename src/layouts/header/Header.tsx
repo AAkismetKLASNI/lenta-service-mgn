@@ -1,7 +1,7 @@
 import { Container, Logo } from '../../components';
 import { BurgerMenu } from './components';
 import { useState } from 'react';
-import burgerMenu from '../../assets/imgs/burger-menu.svg';
+import burgerMenu from '../../assets/burger-menu.svg';
 
 export const Header = () => {
   const [isOpenBurgerMenu, setIsOpenBurgerMenu] = useState(false);

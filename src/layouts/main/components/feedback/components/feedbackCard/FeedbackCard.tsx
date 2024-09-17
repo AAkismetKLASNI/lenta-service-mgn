@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import starImg from '../../../../../../assets/imgs/feedback/star.svg';
+import starImg from '../../../../../../assets/star.svg';
 
 interface FeedbackCardProps {
   title: string;

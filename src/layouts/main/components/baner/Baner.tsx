@@ -1,5 +1,5 @@
-import banerImg from '../../../../assets/imgs/baner-img.png';
-import underArrImg from '../../../../assets/imgs/under-arrow.svg';
+import banerImg from '../../../../assets/baner-img.png';
+import underArrImg from '../../../../assets/under-arrow.svg';
 
 export const Baner = () => {
   return (

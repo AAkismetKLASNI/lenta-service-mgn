@@ -1,7 +1,7 @@
-import speedImg from '../../../../assets/imgs/about-us/speed.svg';
-import spectrumImg from '../../../../assets/imgs/about-us/spectrum.svg';
-import userImg from '../../../../assets/imgs/about-us/user.svg';
-import markerImg from '../../../../assets/imgs/about-us/marker.svg';
+import speedImg from '../../../../assets/speed.svg';
+import spectrumImg from '../../../../assets/spectrum.svg';
+import userImg from '../../../../assets/user.svg';
+import markerImg from '../../../../assets/marker.svg';
 
 export const cards = [
   {
