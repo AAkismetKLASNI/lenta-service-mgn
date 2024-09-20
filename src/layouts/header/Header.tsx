@@ -7,7 +7,7 @@ export const Header = () => {
   const [isOpenBurgerMenu, setIsOpenBurgerMenu] = useState(false);
 
   return (
-    <header className='py-1 z-10 fixed top-0 left-0 right-0 bg-gray-dark xl:py-3'>
+    <header className='py-2 z-10 fixed top-0 left-0 right-0 bg-gray-dark xl:py-3'>
       <Container>
         <div className='flex justify-between items-center'>
           <Logo />
